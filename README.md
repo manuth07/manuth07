@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👨‍💻 Who am I?
 
-<!--
-**manuth07/manuth07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Manuth Wilegoda, a Computer Science undergraduate at SLIIT.
 
-Here are some ideas to get you started:
+I am interested in Full Stack Development, DevOps, and building scalable software systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Work On
+
+- Java, Spring Boot, and ASP.NET Core backend development
+- RESTful API development
+- React full stack applications
+- PostgreSQL and MySQL databases
+- Docker and Linux
+- Cloud deployment with AWS and Microsoft Azure
+- CI/CD pipelines
+- Distributed systems and software architecture
+
+## 🔗 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/manuth-wilegoda)
+
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram)](https://https://www.instagram.com/manuuth/)
